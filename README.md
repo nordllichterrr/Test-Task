@@ -48,7 +48,7 @@
 Переписка с GigaChat для подтверждения подлинности ответов:
 
 ![image](https://github.com/user-attachments/assets/155d8082-a4dc-47ce-b712-8cf15f091dc9)
-![image](https://github.com/user-attachments/assets/034aa025-1334-4f51-8645-9e5c45f7e715)  (файл README.md)
+![image](https://github.com/user-attachments/assets/034aa025-1334-4f51-8645-9e5c45f7e715) 
 
 ![image](https://github.com/user-attachments/assets/5126b04c-03dd-41e7-9203-4f2e29e8f958)
 ![image](https://github.com/user-attachments/assets/8ebe0766-cb92-49dc-8f21-697108c7c6e2)
